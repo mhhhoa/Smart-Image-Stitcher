@@ -2,6 +2,8 @@
 
 Удобный инструмент для быстрого создания профессиональных коллажей типа **«ДО / ПОСЛЕ»**. Программа позволяет объединять изображения, настраивать их внешний вид, добавлять автоматические надписи и экспортировать готовый результат.
 
+![Smart Image Stitcher](screenshot.png)
+
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-5.2.2-green.svg)
 
